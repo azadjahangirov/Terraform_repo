@@ -1,0 +1,10 @@
+# 
+**/.terraform/*
+.terraform/
+
+*.tfstate
+*.tfstate.*
+
+*.log
+
+*tfvars
